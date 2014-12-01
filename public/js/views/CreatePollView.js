@@ -28,7 +28,9 @@ module.exports = Backbone.View.extend({
 
 		return this;
 	},
-
+/*
+THIS IS A COMMENT
+ */
 	events: {
 		'submit': 'createPoll',
 		'focus .js-choice-input': 'appendInput',
