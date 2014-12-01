@@ -30,6 +30,8 @@ module.exports = Backbone.View.extend({
 	},
 /*
 THIS IS A COMMENT
+
+CHANGES
  */
 	events: {
 		'submit': 'createPoll',
